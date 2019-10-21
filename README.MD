@@ -68,13 +68,20 @@
 **Удаление данных файлов повышает FPS в массовых замесах.**
 
 `\system\soulshot.int` - Удаление анимации сосок
+
 `\StaticMeshes\LineageEffectsStaticmeshes.usx` - Упрощает анимации скилов 
+
 `\StaticMeshes\LineageEffectsStaticmeshes2.usx` - Упрощает анимации скилов 
+
 `\SysTextures\LineageEffectsTextures2.utx` - Удаляет анимацию скилов 
+
 `\SysTextures\LineageEffectsTextures.utx` - Удаляет анимацию скилов 
+
 `\SysTextures\LineageEffectsTexturesСha.utx` - Удаляет анимацию скилов 
 
 **Комфортная игра**
 
 `\system\sceneplayerdata.dat` - Удаление мультиков (фринтеза/фрея/валик/тарас)
+
 `\system\eula-e.dat` - Удаление пользовательского соглшения (при входе на сервер) 
+

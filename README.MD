@@ -63,6 +63,8 @@
 #### Other
 
 - [Crest Maker](https://yadi.sk/d/uaz6gwS9HWVVBg) (Сделать иконки клана + альянса)
+- [Набор значков клан+алли](https://yadi.sk/d/asrf2E1DZPja3Q)
+- [Test Server](https://yadi.sk/d/Lhw169VIVICPtQ) (Локальный сервер HF)
 
 ## Boost FPS
 
@@ -85,4 +87,12 @@
 `\system\sceneplayerdata.dat` - Удаление мультиков (фринтеза/фрея/валик/тарас)
 
 `\system\eula-e.dat` - Удаление пользовательского соглшения (при входе на сервер) 
+
+**Оптимизация клиента**
+
+Конфигурация файла **l2.ini** для наиболее оптимальной производительности. Ниже представлены 3 исправленных блока, которые нужно заменить. 
+
+[Config for low PC.txt](https://yadi.sk/d/EgLi4kOBFtulig) редактировать l2.ini через [File Edit](https://yadi.sk/d/UH1xUrPZvBtrHA)
+
+
 

@@ -2,32 +2,37 @@
 
 # Lineage 2 High Five
 
-## Interfaces (Интерфейсы)
+Официальный чистый клиент от разработчика NCSoft [.torrent](https://yadi.sk/d/m7VxuB31HSBR4A) / [rutracker](https://rutracker.org/forum/viewtopic.php?t=4088128)
+
+## Интерфейсы
 
 #### Отдельные элементы
 
 *В архивах есть скриншоты*
 
-- [% of skills reuse](https://yadi.sk/d/PRTNIBkVwm9syA) (Откат скиллов в %)
-- [Chain Heal Color](https://yadi.sk/d/6Qnk9QjAm7mqnw) (Цвет цепного хила)
-- [Debuff Timer](https://yadi.sk/d/SFJFGotbbBJKHg) (Таймер дебафов) `не работает на pts`
-- [Disable Heal Animation](https://yadi.sk/d/6epI3Bv4kyCV2Q) (Отсутствие анимации хила)
-- [English name for skills](https://yadi.sk/d/ctJcb8uPkpO7MQ) (Англ. названия скиллов)
-- [Extended Inventory](https://yadi.sk/d/BSRPLFewZ6wE5w) (Расширенный инвентарь)
-- [HP.CP.MP by Voices](https://yadi.sk/d/A7tZyxdDuXnCxg) 
-- [Hellbound Inventory](https://yadi.sk/d/tr0ulaIaQIZwHA) (Инвентарь хроник Хеллбаунд)
-- [Icon Under Head](https://yadi.sk/d/u6Rb-MyjdiaaZw) (Иконки над головой)
-- [Macros Color](https://yadi.sk/d/yy1GdfXjqe4r0g) (Цветные иконки макросов)
-- [Move Point](https://yadi.sk/d/CWuRfmB0dmlDsg)
-- [New Talisman Icons](https://yadi.sk/d/xO0JksHcRS2y8Q) (Новые иконки талисманов)
-- [No Smog / No Rain](https://yadi.sk/d/rn9cjMUoIUPI1Q)   `текстуры эпилога, не видно вортексов дв, баг эпик квест`
-- [Panels of Macros](https://yadi.sk/d/O_KubF9OP82hQA) (Панели с макросами)
-- [System Chat](https://yadi.sk/d/q_sEh1xebrmv5g) (Цветной системный чат)
-- [Pinned System Chat](https://yadi.sk/d/Mcfb3xpoWoryyg) (Закрепленный системный чат)
-- [Zoom + WH + Lightening](https://yadi.sk/d/rrdRBvbSS1yAEg) (Зум, вх, осветление текстур)
-- [Патч для бардов](https://yadi.sk/d/xFmHi-D2BDSGlQ) (Черные иконки денсов/сонгов)
-- [Noblesse in Debuff](https://yadi.sk/d/Y2vXwhwHWnDjsw) (Нобл в дебафах)
-- [Olympiad Arena](https://yadi.sk/d/GvUdRFcHdr957g) (Убраны ворота и статуи)
+- [Откат скиллов в %](https://yadi.sk/d/PRTNIBkVwm9syA) |*systextures/l2_skilltime.utx*
+- [Цвет цепного хила](https://yadi.sk/d/6Qnk9QjAm7mqnw) | *system/skillgrp.dat* * *LineageEffect.u*
+- [Таймер дебафов](https://yadi.sk/d/SFJFGotbbBJKHg) |*system/armorgrp.dat* * *interfaceext_h5.u* * *skillgrp.dat* * *interface.u*
+- [Отсутствие анимации хила](https://yadi.sk/d/6epI3Bv4kyCV2Q) |*system/skillgrp.dat*
+- [Англ. названия скиллов](https://yadi.sk/d/ctJcb8uPkpO7MQ) |system/skillname-e.dat
+- [Отображение профы, вместо статуса](https://yadi.sk/d/3oMknrg9QuTdHA) | *system/interface.u*
+- [Расширенный инвентарь](https://yadi.sk/d/BSRPLFewZ6wE5w) |*system/interface.xdat*
+- [HP.CP.MP by Voices](https://yadi.sk/d/A7tZyxdDuXnCxg) | *system/interface.xdat*
+- [Инвентарь хроник Хеллбаунд](https://yadi.sk/d/tr0ulaIaQIZwHA) | *system/interface.xdat*
+- [Иконки скилов над головой](https://yadi.sk/d/u6Rb-MyjdiaaZw) | *systextures/LineageEffectsTextures.utx*
+- [Цветные иконки макросов](https://yadi.sk/d/yy1GdfXjqe4r0g) | *systextures/L2UI.utx*
+- [Move Point](https://yadi.sk/d/CWuRfmB0dmlDsg) | *systextures/LineageEffectsTextures.utx*
+- [Иконки талисманов](https://yadi.sk/d/xO0JksHcRS2y8Q) | *system/skillgrp.dat* * *systextures/armorgrp.dat* * *av_icons.utx*
+- [No Smog / No Rain](https://yadi.sk/d/rn9cjMUoIUPI1Q) |*textures/bg_effect_t.utx*
+- [Дополнительная панелька для макросов](https://yadi.sk/d/O_KubF9OP82hQA) | *system/interface.xdat* * *systextures/patch.utx*
+- [Цветной системный чат (несколько вариантов)](https://yadi.sk/d/q_sEh1xebrmv5g) |*system/systemmsg-e.dat*
+- [Закрепленный системный чат](https://yadi.sk/d/Mcfb3xpoWoryyg) | *system/interface.xdat*
+- [Zoom + WH + Lightening](https://yadi.sk/d/rrdRBvbSS1yAEg) | *system/user.ini*
+- [Патч для бардов (черные иконки денсов/сонгов)](https://yadi.sk/d/xFmHi-D2BDSGlQ) | *systextures/icon.utx*
+- [Нобл в дебафах](https://yadi.sk/d/Y2vXwhwHWnDjsw) | *system/skillgrp.dat*
+- [Olympiad Arena (удаление ворот и статуй](https://yadi.sk/d/GvUdRFcHdr957g) |*maps/17_10.unr*
+- [Level/Agr мобов](https://yadi.sk/d/Csqnvoopg6Tmzw) | *system/npcname-e.dat*
+- [Сокращенные команды](https://yadi.sk/d/zwtdiGBxKnACdw) | *system/commandname-e.dat* 
 
 #### Полное изменение
 
@@ -42,29 +47,33 @@
 - Interface Patch by Deadz [[v1.8]](https://yadi.sk/d/iqO-N-JRyMSLyA) [[v2.1]](https://yadi.sk/d/bC_qczL2O1D56Q)
 - [RPG-CLUB by Deadz](https://yadi.sk/d/qtF-v2bs_iGwnA) [Stability] `pass 1550`
 
-## Soft
+## Софт
 
-#### Clients Editor
+#### Редакторы клиента
 
 - [File Edit](https://yadi.sk/d/UH1xUrPZvBtrHA) for High Five
 - [L2Lige](https://yadi.sk/d/EEiXMu_rkOcDvg)
 
-#### Bot
+#### Боты
 
-- Adrenaline Bot [1.71](https://yadi.sk/d/hwFjh4puRLfHiQ) [1.99](https://yadi.sk/d/aRGQaKPTO86I0Q) 
+- Adrenaline Bot [1.71](https://yadi.sk/d/hwFjh4puRLfHiQ) [1.99](https://yadi.sk/d/aRGQaKPTO86I0Q) [$$$](https://adrenalinebot.ru/)
 - [L2Tower](https://yadi.sk/d/juDrYMnCLAF35A)
 
-#### Clicker
+#### Кликеры
 
 - [L2GoodWeather](https://yadi.sk/d/_qpPxFvUT76dEg) (Универсальный кликер)
 - [PXNL2](https://yadi.sk/d/nHYC3uCkm8CfBA) (Приватный для RPG-CLUB)
-- [ANTUxPK](https://yadi.sk/d/BlchvoSLgzHbsQ) (Two Version)
+- [ANTUxPK](https://yadi.sk/d/BlchvoSLgzHbsQ)
 
-#### Other
+#### Разное
 
-- [Crest Maker](https://yadi.sk/d/uaz6gwS9HWVVBg) (Сделать иконки клана + альянса)
+- [Crest Maker](https://yadi.sk/d/uaz6gwS9HWVVBg) (Редактор значков клана и альянса)
 - [Набор значков клан+алли](https://yadi.sk/d/asrf2E1DZPja3Q)
 - [Test Server](https://yadi.sk/d/Lhw169VIVICPtQ) (Локальный сервер HF)
+
+#### Сервисы
+
+- [Редактор SystemMsg](https://l2.zhumarin.ru/)
 
 ## Boost FPS
 

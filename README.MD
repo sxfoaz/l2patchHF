@@ -12,27 +12,27 @@
 
 *В архивах есть скриншоты*
 
-- [Откат скиллов в %](https://yadi.sk/d/PRTNIBkVwm9syA) |*systextures/l2_skilltime.utx*
+- [Откат скиллов в %](https://yadi.sk/d/PRTNIBkVwm9syA) | *systextures/l2_skilltime.utx*
 - [Цвет цепного хила](https://yadi.sk/d/6Qnk9QjAm7mqnw) | *system/skillgrp.dat* * *LineageEffect.u*
-- [Таймер дебафов](https://yadi.sk/d/SFJFGotbbBJKHg) |*system/armorgrp.dat* * *interfaceext_h5.u* * *skillgrp.dat* * *interface.u*
-- [Отсутствие анимации хила](https://yadi.sk/d/6epI3Bv4kyCV2Q) |*system/skillgrp.dat*
-- [Англ. названия скиллов](https://yadi.sk/d/ctJcb8uPkpO7MQ) |*system/skillname-e.dat*
+- [Таймер дебафов](https://yadi.sk/d/SFJFGotbbBJKHg) | *system/armorgrp.dat* * *interfaceext_h5.u* * *skillgrp.dat* * *interface.u*
+- [Отсутствие анимации хила](https://yadi.sk/d/6epI3Bv4kyCV2Q) | *system/skillgrp.dat*
+- [Англ. названия скиллов](https://yadi.sk/d/ctJcb8uPkpO7MQ) | *system/skillname-e.dat*
 - [Отображение профы, вместо статуса](https://yadi.sk/d/3oMknrg9QuTdHA) | *system/interface.u*
-- [Расширенный инвентарь](https://yadi.sk/d/BSRPLFewZ6wE5w) |*system/interface.xdat*
+- [Расширенный инвентарь](https://yadi.sk/d/BSRPLFewZ6wE5w) | *system/interface.xdat*
 - [HP.CP.MP by Voices](https://yadi.sk/d/A7tZyxdDuXnCxg) | *system/interface.xdat*
 - [Инвентарь хроник Хеллбаунд](https://yadi.sk/d/tr0ulaIaQIZwHA) | *system/interface.xdat*
 - [Иконки скилов над головой](https://yadi.sk/d/u6Rb-MyjdiaaZw) | *systextures/LineageEffectsTextures.utx*
 - [Цветные иконки макросов](https://yadi.sk/d/yy1GdfXjqe4r0g) | *systextures/L2UI.utx*
 - [Move Point](https://yadi.sk/d/CWuRfmB0dmlDsg) | *systextures/LineageEffectsTextures.utx*
 - [Иконки талисманов](https://yadi.sk/d/xO0JksHcRS2y8Q) | *system/skillgrp.dat* * *systextures/armorgrp.dat* * *av_icons.utx*
-- [No Smog / No Rain](https://yadi.sk/d/rn9cjMUoIUPI1Q) |*textures/bg_effect_t.utx* 
+- [No Smog / No Rain](https://yadi.sk/d/rn9cjMUoIUPI1Q) | *textures/bg_effect_t.utx* 
 - [Дополнительная панелька для макросов](https://yadi.sk/d/O_KubF9OP82hQA) | *system/interface.xdat* * *systextures/patch.utx*
-- [Цветной системный чат (несколько вариантов)](https://yadi.sk/d/q_sEh1xebrmv5g) |*system/systemmsg-e.dat*
+- [Цветной системный чат (несколько вариантов)](https://yadi.sk/d/q_sEh1xebrmv5g) | *system/systemmsg-e.dat*
 - [Закрепленный системный чат](https://yadi.sk/d/Mcfb3xpoWoryyg) | *system/interface.xdat*
 - [Zoom + WH + Lightening](https://yadi.sk/d/rrdRBvbSS1yAEg) | *system/user.ini*
 - [Патч для бардов (черные иконки денсов/сонгов)](https://yadi.sk/d/xFmHi-D2BDSGlQ) | *systextures/icon.utx*
 - [Нобл в дебафах](https://yadi.sk/d/Y2vXwhwHWnDjsw) | *system/skillgrp.dat*
-- [Olympiad Arena](https://yadi.sk/d/GvUdRFcHdr957g) |*maps/17_10.unr*
+- [Olympiad Arena](https://yadi.sk/d/GvUdRFcHdr957g) | *maps/17_10.unr*
 - [Лвл / Агр мобов](https://yadi.sk/d/Csqnvoopg6Tmzw) | *system/npcname-e.dat*
 - [Сокращенные команды](https://yadi.sk/d/zwtdiGBxKnACdw) | *system/commandname-e.dat* 
 

@@ -57,7 +57,6 @@
 - [L2Tool](https://yadi.sk/d/HmkJO4e01UF5oQ) *программа для просмотра и замены текстур в UTX-файлах*
 - [XDAT Editor](https://yadi.sk/d/apkzoHhImtvjBw) *программа для редактирования interface.xdat*
 - [L2Lige](https://yadi.sk/d/EEiXMu_rkOcDvg) / [L2AntiLag](https://yadi.sk/d/arJsmdLwFiVAaA) *предназначен для редактирования ini файлов*
-- 
 
 #### Боты
 
@@ -107,6 +106,3 @@
 Конфигурация файла **l2.ini** для наиболее оптимальной производительности. Ниже представлены 3 исправленных блока, которые нужно заменить. 
 
 [Config for low PC.txt](https://yadi.sk/d/EgLi4kOBFtulig) редактировать l2.ini через [File Edit](https://yadi.sk/d/UH1xUrPZvBtrHA)
-
-
-

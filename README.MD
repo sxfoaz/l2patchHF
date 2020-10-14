@@ -1,4 +1,4 @@
-![header](img\header.jpg)
+![header](img/header.jpg)
 
 # Скачать [Lineage 2 High Five](https://mega.nz/file/AKYhDS5A#risU0fl1KeD6JvE3mzpthxBrxxo3bBghT5zZUdIvNIw)
 

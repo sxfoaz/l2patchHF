@@ -60,7 +60,7 @@
 #### Разное
 
 - [Crest Maker](https://mega.nz/file/cLBwVSqR#vX_OGmjKWy0PynzVJtmkTnK2R-YkpJmtAPb_vvs-J8g) *редактор значков клана и альянса*
-- [Набор значков клана и альянса](https://mega.nz/file/obBzAACI#5-ppwi5aV1XEQJcQt3dww__07DsGlT3KU7EgAn6k3KU) *600+ значков*
+- [Набор значков клана и альянса](https://mega.nz/file/5W5iHDgD#lViYHIh8SXgdEJnA2qavgQqGwb4Akm7AlPi0Qp0hZE0) *600+ значков*
 - [L2 Simple Loader](https://mega.nz/file/AWJgEaiQ#YZMpB6OJv9ZHLyQ5V-kyQL146gdEM0HDTnxQD4wx4Qc) *локальный сервер HF*
 
 #### Сервисы онлайн

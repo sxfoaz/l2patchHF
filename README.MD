@@ -1,89 +1,88 @@
-![header](img/header.jpg)
 
-# Скачать [Lineage 2 High Five](https://mega.nz/file/AKYhDS5A#risU0fl1KeD6JvE3mzpthxBrxxo3bBghT5zZUdIvNIw)
 
- :red_circle: Не все модификации совместимы между собой
+![header](https://sun9-31.userapi.com/IqWCkiQVp4akMgbZWI2eOM0feaH5H4WNck1Vbg/hdaAu8MFaAI.jpg)
 
-| Отдельные элементы интерфейса                                | Скриншоты                                                    | Автор  | Дополнительно |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ------------- |
-| [Chain Heal Color \| Цвет цепного хила](https://mega.nz/file/gDRzjYYQ#6unqaBx6Ljx7R2FLyfhaAPnKEXCtlUBfZqetEEDoAX4) | [:camera:](<https://sun9-40.userapi.com/c857036/v857036102/dcb57/irUx7c4AlGY.jpg>) [:camera:](<https://sun9-2.userapi.com/c858236/v858236102/1c47a7/keBJ7g_e-tU.jpg>) |        |               |
-| [% of skills reuse \| Откат скиллов в %](https://mega.nz/file/EHYxACbD#reMksRRyZVgqKrJwI5AAVe8AUYBzOuAxYE9EmPj-RzM) | [:camera:](<https://sun9-8.userapi.com/c205824/v205824102/cd1cf/v3WL5FVmC6Q.jpg>) |        |               |
-| [Disable Heal Animation \|Отключить анимацию хила](https://mega.nz/file/sDQVRIbK#KTnjWe6Xq6nG4NLDcYKMhqJ8DfTZdcpwRMPQqjNeUHw) |                                                              |        |               |
-| [English name for skills \| Названия скиллов на английском](https://mega.nz/file/BGgBGBhR#wSqm5-d65dAOE2XvLttsnZRveFv92XAqBp_sIyQ59Yw) |                                                              |        |               |
-| [Показывать профессии вместо статуса персонажа](https://mega.nz/file/tKpnDJIR#Z8NleSVWCOcl_KoMT58TETFR6nKUGo8zbgmbotAw_1M) |                                                              |        |               |
-| [Extended Inventory \| Расширенный инвентарь](https://mega.nz/file/MKhDgB5a#yCCvAudGEbzeJIXeCWTAMyivj1fbAIRgLoTXYViK97Q) | [:camera:](<https://sun9-44.userapi.com/c857332/v857332102/cc383/kBM49Nmvt2M.jpg>) |        |               |
-| [Полоска HP CP MP](https://mega.nz/file/8Xgx2BaD#qZEKU1E6ipn2I8P09FJRvZPriYb32PWIpHeCoLQz2q4) | [:camera:](<https://sun9-71.userapi.com/c857332/v857332102/cc3b2/qCTEfHMI-xk.jpg>) | Voices |               |
-| [Hellbound Inventory \| Инвентарь хроник Хеллбаунд)](https://mega.nz/file/xPp3gZ6a#lR0NPQnAysFILibekQG8QAebgchW8IAwQs4GfDRszoU) | [:camera:](<https://sun9-36.userapi.com/c857332/v857332102/cc3a8/PFjXAn9caBo.jpg>) |        |               |
-| [Icon under head \| Иконки скилов над головой персонажа](https://mega.nz/file/FOoT0ZDJ#bv1_u6pDf2-YVg9QMoKwK22Oo94HQ2_FCWHJAvUpDM8) | [:camera:](<https://sun9-4.userapi.com/c857332/v857332102/cc3cb/VZCA5TcfxXA.jpg>) |        |               |
-| [Macros Color \| Цветные иконки макросов](https://mega.nz/file/YapD3BBK#p6hYT4NkUY-uQSX20oX3U7CAjZZQdG9KX2DnMrfivao) | [:camera:](<https://sun9-23.userapi.com/c857332/v857332102/cc3db/QC7j87Ec034.jpg>) |        |               |
-| [No Smog, No Rain \| Удалить туман и кровавый дождь](https://mega.nz/file/lb5h3LoL#vZiLj9Xv5X_tx3Oz6_NNGUZm3XVskVLO26pBH-SxS98) |                                                              |        |               |
-| [Panels of Macros \| Дополнительная панель с макросами](https://mega.nz/file/EChT0JID#CBvX29ESCFVlNOGUidV18kcnxLLUfcTWwbe2Uhh2BJc) | [:camera:](<https://sun9-16.userapi.com/c857332/v857332102/cc474/ckkhDMz0zc4.jpg>) |        |               |
-| [Color system chat \| Цветной системный чат](https://mega.nz/file/pGxRhLST#hi99M1pFPcX86GA2tJdMZmIA5iQQ0gyErueOyihkrtE) |                                                              |        |               |
-| [Zoom + WH + Lightening](https://mega.nz/file/pL5Bjb6A#CDII3puc1OTs3D2MNjpWTGaTTK1g8ivFwFCbBknOlP4) | [:camera:](<https://sun9-11.userapi.com/c857332/v857332102/cc499/QxT7yIsEMSc.jpg>) |        |               |
-| [Патч для бардов (черные иконки денсов/сонгов)](https://mega.nz/file/dXxR0DQS#tT-KK4ZUAqJu9XgYvvHZ-bMKaQhbGSRo1HbuBTjotWE) | [:camera:](<https://sun9-70.userapi.com/c857332/v857332102/cc4a0/AwX2QLFp6jI.jpg>)  [:camera:](<https://sun9-36.userapi.com/c857332/v857332102/cc4a7/v-yG-9GE9YU.jpg>) |        |               |
-| [Noblesse in Debuff \| Нобл в дебафах](https://mega.nz/file/ATxhUbDQ#OYJWW8hz3E9hwCOGak9IPH5idvBldrtSQhXZLuyus0Y) |                                                              |        |               |
-| [Olympiad Arena](https://mega.nz/file/FO4nTbbb#DpM6UTA3jWkBoTfXjrezx7Sn4pP8vrAIssxpeiX31jY) | [:camera:](<https://sun9-8.userapi.com/c857332/v857332102/cc459/bszFmJCjRSw.jpg>) [:camera:](<https://sun9-57.userapi.com/c857332/v857332102/cc463/f6Jo-5xQ9WM.jpg>) [:camera:](<https://sun9-53.userapi.com/c857332/v857332102/cc46d/BdxYJPyy21U.jpg>) |        |               |
-| [Level and Agr](https://mega.nz/file/YTg1BL4S#WGb1xsBLyaAGVltdVCVT9ct6XnURacglUFbnzxmpB0g) | [:camera:](<https://sun9-72.userapi.com/c857332/v857332102/cc435/mE53_KLLJXQ.jpg>) |        |               |
-| [Сокращенные команды](https://mega.nz/file/wHhj2RoJ#XR-UXi7atfTcLC8w1DaiHhw8NOxUSaCSmJVPLP_XZdE) |                                                              |        |               |
 
-| Полное изменение интерфейса                                  | Скриншоты                                                    | Автор    | Дополнительно |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ------------- |
-| [Interface](https://mega.nz/file/xL4DVZAB#yAq4ub7K2JZVp1kmBweDbfSlvwo8eZ1fU5D4D24tt98) | [:camera:](<https://sun9-41.userapi.com/c853520/v853520873/2127db/UIEv6Mss79Q.jpg>) | Spooken  |               |
-| [Interface](https://mega.nz/file/MGojBRCD#HuaIEQnI9eYRdeaozWn7GxqH4RmGzB1JQRWrVr9YW2o) | [:camera:](<https://sun9-50.userapi.com/c858224/v858224102/1c14a7/pVDOL4e6r2c.jpg>) | FabuLous |               |
-| [Interface](https://mega.nz/file/4KpFFZYD#9nA2rZ_WHcfDSy1sO_VAQPIAktTB_5vtu_Dl82XN6Xo) |                                                              | edKith   |               |
-| Interface [[v0.6]](https://mega.nz/file/8ax30TYB#HUBO4ubgTqgLxXsr4xHWJxe3afCN3CX2X_xvU1kiLAU) [[v1.0]](https://mega.nz/file/oPgRXByY#yrEyYEy4PxtiRIgxEv0G8KUpG7tYj51PYfKxJkmXhL0) | 0.6 > [:camera:](<https://sun9-55.userapi.com/c857320/v857320489/13f464/Li2csxxvyoY.jpg>) 1.0 > [:camera:](<https://sun9-64.userapi.com/c206816/v206816489/ca828/O2pVYDZCous.jpg>) | Savo     |               |
-| Interface [[v1.8]](https://mega.nz/file/5bYm2SAL#u5B9pT6gyZtQAMUxGpmdKnJbKFqgv4vdz4l5L7uF3ZE) [[v2.1]](https://mega.nz/file/dSRWSYaT#-uzbAR9kEi-VTcpAoin_0PUYJMZS1zv6YteXI0ojO-U) [[rpg-club]](https://mega.nz/file/4HIg3YAb#PWvgyY_yymv8skCfeys5N78gtZnmEteyqW0ZSed-v0E) | [:video_camera:](https://youtu.be/sFR_7wm5P30)               | Deadz    |               |
-| Interface [Spooken + FabuLous](https://mega.nz/file/VepByTKJ#Q1n9uo7BhJyQ2WMUvIAvcZweHWWENuR1XTyjeyLEXVk) | [:camera:](<https://sun9-26.userapi.com/c857216/v857216873/1466ef/n9MBrQJEX_k.jpg>) |          |               |
+[TOC]
 
-| Сборки патчей от игроков                                     | Скриншоты | Дополнительно |
-| ------------------------------------------------------------ | --------- | ------------- |
-| [Патч от Barok](https://mega.nz/file/wGAmkYKI#D3EI6MaOVbWEzNl9aX25FyNtkrExfqIkdLGKRtKeDNU) |           |               |
-| [Патч от Weron (rpg-club)](https://mega.nz/file/5TY0BSZL#HQseWM9U4HXmPXXaQTR7sJkBQJWHbldsGqVljVQ0A0Q) |           |               |
-| [Патч от mmuse](https://mega.nz/file/8PYkACDI#GE16Va1tJjFUdW_2U4QYQI1xhvS0zF-leyRnNIhLkLg) |           |               |
+## Элементы интерфейса
 
-#### Редакторы клиента
+- [Chain Heal Color / Цвет цепного хила](https://drive.google.com/file/d/1hez0qrtTYAmuWBL9iQgSB2FFHOfLZOfI/view?usp=sharing) *(синий и красный)*
+- [% of skills reuse / Откат скиллов в процентах](https://drive.google.com/file/d/16vcDbHc_DlnB70JpQhmi3PgiPCVaG-U2/view?usp=sharing)
+- [Disable Heal Animation / Отключить анимацию хила](https://drive.google.com/file/d/1vrABX-UuovpuyaP8GfIyM1W4rapBJt7E/view?usp=sharing)
+- [English name for skills / Названия скиллов на английском языке](https://drive.google.com/file/d/1soPGCVxkvp4YCqAmeoXdZpClNSxPB4z2/view?usp=sharing)
+- [Extended Inventory / Расширенный инвентарь](https://drive.google.com/file/d/1kaOOmjylSsr8k618US44PalD_zYaTZ_p/view?usp=sharing)
+- [HP.CP.MP bar / Измененная полоса HP CP MP](https://drive.google.com/file/d/12828pFRgUDYarnaiiPg_KbWIsOtT42ci/view?usp=sharing)
+- [Hellbound Inventory / Инвентарь Hellbound](https://drive.google.com/file/d/1j6L9y9vg0o7eAVPNeA6XsapC8zRG2Fcb/view?usp=sharing)
+- [Icon under head / Иконки над головой персонажа](https://drive.google.com/file/d/1qp21rnlhFUylY2YHbz7J7qla3yDeo7tt/view?usp=sharing)
+- [Macros Color / Цветные иконки макросов](https://drive.google.com/file/d/1NrFDAY1TrYgRxHyy-VnCEHgRbTK4qOlZ/view?usp=sharing)
+- [No Smog, No Rain / Удалить туман и кровавый дождь](https://drive.google.com/file/d/1QhSiqxvjH6yAtAM_tlIpNsEE59zcTp-5/view?usp=sharing)
+- [Panels of Macros / Дополнительная панель с макросами](https://drive.google.com/file/d/1Wm6U9gM1AMU8vRrSXQ74B5-oZj8f8xN0/view?usp=sharing)
+- [Color System Chat / Цветной системный чат](https://drive.google.com/file/d/1dEHfA3JAa3l_D5pLoGDoGOp3z6LFlz6D/view?usp=sharing)
+- [Zoom + WH + Lightening / Отдаление камеры, просвет и осветление текстур](https://drive.google.com/file/d/1Bo6WR4yyqAE8rlBQGBZECFHQN1yt6Phi/view?usp=sharing)
+- [Black Icon DS / Черные иконки денсов, сонгов](https://drive.google.com/file/d/1OwkGHleFrXWprvGz3s7HEH0HvnCcAbU_/view?usp=sharing)
+- [Noblesse in Debuff / Нубл в дебафах](https://drive.google.com/file/d/1RbQDzCDNV3SkRIzdAqEP2G_Ne9bx2iRT/view?usp=sharing) *(в архиве вариант с черной иконкой)*
+- [Olympiad Arena / Оли арена без столбов](https://drive.google.com/file/d/14riA3r-CH-38ngn9z7Qt9t6Y58Io7n6L/view?usp=sharing)
+- [Level and Agr / Показывать лвл и социальность мобов](https://drive.google.com/file/d/1vRs3b3qi5f3h2lyTplOQ7B06v6BvIVSF/view?usp=sharing)
+- [Short Commands / Сокращенные команды в чате](https://drive.google.com/file/d/1FG215Qia6hbA3zxiDPR-CiuFnXxCDbup/view?usp=sharing)
 
-- [File Edit](https://mega.nz/file/YORyhIBI#cX5rfkJ-3r2jqwr-JeiuF45cdE_kVxQf518u6x9Tjf8) 
-- [L2Tool](https://mega.nz/file/wSYBzKqB#tlZjA26OPKoncioMxWBv2lLCg6_t5tygSNubN5RBIKQ) *просмотр и замена текстур в UTX-файлах*
-- [XDAT Editor](https://mega.nz/file/MWIjXa5R#EesBV54PQ3RUOemj6fS2n8-mANLCYiSw2hp0lDMGGRU) *редактирование interface.xdat*
 
-#### Боты
+## Полное изменение интерфейса
 
-- Adrenaline Bot [1.71](https://mega.nz/file/wPQRWKDI#TIlhq6n1OBMJeekw_r67jNgPHpi5BSfu_bCQFIq07Gc) / [1.99](https://mega.nz/file/9XAQWSQT#CN3my4-ubEE3Bi9rjDHEJp8DdewehttEf6uZAVE4P3E) 
+- Interface by Deadz [[1.8]](https://drive.google.com/file/d/1-fyM2evtY92XpkRlZwMkg7NTcoBpwL6A/view?usp=sharing)  [[2.1]](https://drive.google.com/file/d/1m3PNKBoGsF1HLjitp24cVLWH3yDIvmJC/view?usp=sharing)  [[RPG-CLUB]](https://drive.google.com/file/d/1Q7zpc9opgjoib_1fKDFg3LJB3aPUuFiw/view?usp=sharing)
+- [Interface by edKith](https://drive.google.com/file/d/1aKFyo-VcOG1oWrpsJX40hres5ka9PmYl/view?usp=sharing)
+- Interface by Savo [[0.6]](https://drive.google.com/file/d/1asqvoaDA4rX19_XQD66Fbbtg5cptsXgc/view?usp=sharing)  [[1.0]](https://drive.google.com/file/d/1OwFopqCxeuVD6AKtzArvCbOsdLL1IbR-/view?usp=sharing)
+- [Interface by Spoken [Emerald]](https://drive.google.com/file/d/1hnZhi-5puLKqgZGOQQPiG55ZO2rkq7nJ/view?usp=sharing)
+- [Interface by FabuLous](https://drive.google.com/file/d/1lptutAvDhpdACu6Ghdi8VhsfYLc1Vntw/view?usp=sharing)
+- [Interface by FabuLous + Spooken](https://drive.google.com/file/d/1MlT22oAKKJRl02bTkdElAvdPugI7FSeY/view?usp=sharing)
 
-#### Кликеры
 
-- [L2GoodWeather](https://mega.nz/file/JfR0Aa4A#N9-IC_yLn8it0RGqm7CNsiqFY2ngPmyNCQO-7Q3zhb4) 
-- [PXNL2](https://mega.nz/file/5SAwSIrb#9fVtRN9LZOPH71l8laJUAcnQ-k3wTLcr_ew6Wcz_4Qo) *only rpg-club*
-- [ANTUxPK](https://mega.nz/file/wCRwGIaT#fRpCV-4Nmiq7lDhj4Dc2Fw5jv5Ml4lO2lr53iSl4F-w)
+## Сборки
 
-#### Разное
+- [Barok [RPG-CLUB]](https://drive.google.com/file/d/1l9bhDCRMc2bnS4Xnfwp2ulwAJ1HIfHJ1/view?usp=sharing)
+- [Weron [RPG-CLUB]](https://drive.google.com/file/d/1zqRv-ki_gIjN7DBvWrT-m2DCygueDXP2/view?usp=sharing)
+- [mmuse](https://drive.google.com/file/d/1irdYL3KrTrkNngV6HHz_DMZTzeB1g_wN/view?usp=sharing)
+- [Asterios](https://drive.google.com/file/d/1pd4v-h0riYAlLYttCLWhO5bzwkhFi8De/view?usp=sharing)
 
-- [Crest Maker](https://mega.nz/file/cLBwVSqR#vX_OGmjKWy0PynzVJtmkTnK2R-YkpJmtAPb_vvs-J8g) *редактор значков клана и альянса*
-- [Набор значков клана и альянса](https://mega.nz/file/5W5iHDgD#lViYHIh8SXgdEJnA2qavgQqGwb4Akm7AlPi0Qp0hZE0) *600+ значков*
-- [L2 Simple Loader](https://mega.nz/file/AWJgEaiQ#YZMpB6OJv9ZHLyQ5V-kyQL146gdEM0HDTnxQD4wx4Qc) *локальный сервер HF*
 
-#### Сервисы онлайн
+## Программы
 
-- [Редактор SystemMsg](https://l2.zhumarin.ru/)
+- [File Edit](https://drive.google.com/file/d/19Ue3x-FiMNlqGFu6gfBm3-X5ch1_lCbw/view?usp=sharing) *(редактор l2.ini)*
+- [L2Tool](https://drive.google.com/file/d/12TKtMcjBZF5IUPeT8KOCQbAtxLMYakJM/view?usp=sharing) *(просмотр и замена текстур в UTX-файлах)*
+- [XDAT Editor](https://drive.google.com/file/d/1QyuDebvbK2To7V2N89oTTHadOtqx7P2c/view?usp=sharing) *(редактирование interface.xdat)*
+- Adrenaline Bot  [[1.71]](https://drive.google.com/file/d/1gYCKky_Rn4ird4bnHh43vc0KsT4AB3Gn/view?usp=sharing)  [[1.99]](https://drive.google.com/file/d/1SsizwgeJ0phs_WrluyTJUvCpgSMt2xDv/view?usp=sharing)
+- [L2GoodWeather](https://drive.google.com/file/d/1UGAs8RZHJTJZGWhF1vyZ9FI2pwrr8Scz/view?usp=sharing) *(фоновый кликер, спамер, ацп)*
+- [PXNL2](https://drive.google.com/file/d/1XGjEq9X2w7G_UZ4I659eZcmtNXk2uM6K/view?usp=sharing) *(фоновый кликер для rpg-club)*
+- [Crest Maker](https://drive.google.com/file/d/1PEX9ztYZO-VRLLbwyWeJA6JrAoWal0GD/view?usp=sharing) *(редактор значков клана и альянса)*
+  - [Набор значков клана и альянса](https://drive.google.com/file/d/1LPfuKhbclSmW0upH6BqvvYie8cCxZY_n/view?usp=sharing) *600+ значков*
+- [L2 Simple Loader](https://drive.google.com/file/d/1G0_w6qL4PqE8mrR40Ticq0e8j_tskrr6/view?usp=sharing) *(локальный сервер HF)*
+- [Онлайн редактор SystemMsg](https://l2.zhumarin.ru/)
 
-#### Boost FPS
+## Оптимизация - Boost FPS
 
-[L2Lige](https://mega.nz/file/wOQQVIjZ#UO5dtBIUZmwY8DQHYjKGtVoRkz_bsi0tqdv8lXS0nFA) / [L2AntiLag](https://mega.nz/file/wOQQVIjZ#UO5dtBIUZmwY8DQHYjKGtVoRkz_bsi0tqdv8lXS0nFA) / [Config for low PC](https://mega.nz/file/dbQlEKCZ#11Km21SubqK1cd1XGVyObQBDIvZWg87N0Auc4PCsZtg) (редактировать l2.ini через [File Edit](https://mega.nz/file/YORyhIBI#cX5rfkJ-3r2jqwr-JeiuF45cdE_kVxQf518u6x9Tjf8))
+**Софт:** [L2Lige](https://drive.google.com/file/d/1nWQHvDPfja3Yr77RXn75oMXmQZthfXs1/view?usp=sharing) / [L2AntiLag](https://drive.google.com/file/d/1Sx3O6DEmIkD_d8eQcOpOEuybwvViB-km/view?usp=sharing) / [Config for low PC](https://drive.google.com/file/d/1usoK4d8qhoZQboRCrLRmdXEw5oFhB0Ye/view?usp=sharing) *(редактировать l2.ini через [File Edit](https://drive.google.com/file/d/19Ue3x-FiMNlqGFu6gfBm3-X5ch1_lCbw/view?usp=sharing))*
 
-**Удаление данных файлов повышает FPS в массовых замесах.**
+
+
+**Удаление данных файлов повышает FPS в массовых замесах**
 
 `\system\soulshot.int` - *Удаление анимации сосок*
+
+
 
 `\StaticMeshes\LineageEffectsStaticmeshes.usx` - *Упрощает анимации скилов* 
 
 `\StaticMeshes\LineageEffectsStaticmeshes2.usx`
+
+
 
 `\SysTextures\LineageEffectsTextures2.utx` - *Удаляет анимацию скилов* 
 
 `\SysTextures\LineageEffectsTextures.utx` 
 
 `\SysTextures\LineageEffectsTexturesСha.utx`
+
+
 
 **Комфортная игра**
 

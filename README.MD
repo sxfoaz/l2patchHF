@@ -3,7 +3,6 @@
 ![header](https://sun9-31.userapi.com/IqWCkiQVp4akMgbZWI2eOM0feaH5H4WNck1Vbg/hdaAu8MFaAI.jpg)
 
 
-[TOC]
 
 ## Элементы интерфейса
 
@@ -43,6 +42,8 @@
 - [Weron [RPG-CLUB]](https://drive.google.com/file/d/1zqRv-ki_gIjN7DBvWrT-m2DCygueDXP2/view?usp=sharing)
 - [mmuse](https://drive.google.com/file/d/1irdYL3KrTrkNngV6HHz_DMZTzeB1g_wN/view?usp=sharing)
 - [Asterios](https://drive.google.com/file/d/1pd4v-h0riYAlLYttCLWhO5bzwkhFi8De/view?usp=sharing)
+- [peepoClown [RPG-CLUB]](https://drive.google.com/file/d/1cYpEhq6ci6OZPnFn7ORsgUB1_2vUbZY5/view?usp=sharing)
+- [NomeZerios [ASTERIOS]](https://drive.google.com/file/d/1D3SW8qNAQ2NMu4824RbCjWuOm392mQ8r/view?usp=sharing)
 
 
 ## Программы
@@ -61,6 +62,9 @@
 ## Оптимизация - Boost FPS
 
 **Софт:** [L2Lige](https://drive.google.com/file/d/1nWQHvDPfja3Yr77RXn75oMXmQZthfXs1/view?usp=sharing) / [L2AntiLag](https://drive.google.com/file/d/1Sx3O6DEmIkD_d8eQcOpOEuybwvViB-km/view?usp=sharing) / [Config for low PC](https://drive.google.com/file/d/1usoK4d8qhoZQboRCrLRmdXEw5oFhB0Ye/view?usp=sharing) *(редактировать l2.ini через [File Edit](https://drive.google.com/file/d/19Ue3x-FiMNlqGFu6gfBm3-X5ch1_lCbw/view?usp=sharing))*
+
+- [АнтиЛаг с оконным режимом без рамок](https://drive.google.com/file/d/19vOjVSLjqomUZytCQ9YyVMGS8PXrbs8I/view?usp=sharing)
+- [АнтиЛаг с стандартным оконным режимом](https://drive.google.com/file/d/1aLI5Mbwd1FkssbMJrUsWOiO2hkDHPvoN/view?usp=sharing)
 
 
 

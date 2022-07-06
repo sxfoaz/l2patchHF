@@ -6,7 +6,7 @@
 
 ## Элементы интерфейса
 
-- [Chain Heal Color](files/Chain-Heal-Color.zip) (цветная цепка)| [view](https://i.imgur.com/kCOTYus.png)
+- [Chain Heal Color](files/Chain-Heal-Color.zip) (цветная цепка) | [view](https://i.imgur.com/kCOTYus.png)
 - [% of skills reuse](files/Skill-Reuse.zip) (откат скиллов в процентах) | [view](https://i.imgur.com/zYAzIaL.png) 
 - [Disable Heal Animation](files/Disable-Heal-Animation.zip) (отключить анимацию хила) | [view](https://imgur.com/ueWVAeg.png)
 - [English skill name](files/En_Skillname.zip) (скилы на английском) | no view
@@ -71,17 +71,10 @@
 - [АнтиЛаг с стандартным оконным режимом](https://drive.google.com/file/d/1aLI5Mbwd1FkssbMJrUsWOiO2hkDHPvoN/view?usp=sharing)
 
 Удаление файла `\system\soulshot.int` — Удаление анимации сосок
-
 Удаление файла `\StaticMeshes\LineageEffectsStaticmeshes.usx` — Упрощает анимации скилов
-
 Удаление файла `\StaticMeshes\LineageEffectsStaticmeshes2.usx` — Упрощает анимации скилов
-
 Удаление файла `\SysTextures\LineageEffectsTextures2.utx` — Удаляет анимацию скилов
-
 Удаление файла `\SysTextures\LineageEffectsTextures.utx` — Удаляет анимацию скилов
-
 Удаление файла `\SysTextures\LineageEffectsTexturesСha.utx` — Удаляет анимацию скилов
-
 Удаление файла `\system\sceneplayerdata.dat` — Удаляет мультики (фринтеза/фрея/валик/тарас)
-
 Удаление файла `\system\eula-e.dat` — Удаляет пользовательского соглшения (при входе на сервер)

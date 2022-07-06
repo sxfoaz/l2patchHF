@@ -71,10 +71,17 @@
 - [АнтиЛаг с стандартным оконным режимом](https://drive.google.com/file/d/1aLI5Mbwd1FkssbMJrUsWOiO2hkDHPvoN/view?usp=sharing)
 
 Удаление файла `\system\soulshot.int` — Удаление анимации сосок
+
 Удаление файла `\StaticMeshes\LineageEffectsStaticmeshes.usx` — Упрощает анимации скилов
+
 Удаление файла `\StaticMeshes\LineageEffectsStaticmeshes2.usx` — Упрощает анимации скилов
+
 Удаление файла `\SysTextures\LineageEffectsTextures2.utx` — Удаляет анимацию скилов
+
 Удаление файла `\SysTextures\LineageEffectsTextures.utx` — Удаляет анимацию скилов
+
 Удаление файла `\SysTextures\LineageEffectsTexturesСha.utx` — Удаляет анимацию скилов
+
 Удаление файла `\system\sceneplayerdata.dat` — Удаляет мультики (фринтеза/фрея/валик/тарас)
+
 Удаление файла `\system\eula-e.dat` — Удаляет пользовательского соглшения (при входе на сервер)

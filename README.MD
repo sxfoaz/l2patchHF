@@ -56,6 +56,7 @@
 - [L2GoodWeather](https://drive.google.com/file/d/1UGAs8RZHJTJZGWhF1vyZ9FI2pwrr8Scz/view?usp=sharing) — Фоновый кликер
 - [UoPilot](https://uopilot.uokit.com/) — Кликер, умеет фоном
 - [AutoHotkey](https://www.autohotkey.com/) — Автоматизация своих действий
+- [Hydra Clicker](https://github.com/sxfoaz/hydra-clicker) - Фоновый кликер написанный на AHK.
 - [Crest Maker](https://drive.google.com/file/d/1PEX9ztYZO-VRLLbwyWeJA6JrAoWal0GD/view?usp=sharing) — Редактор значков клана и альянса
   - [Набор значков клана и альянса](https://drive.google.com/file/d/1LPfuKhbclSmW0upH6BqvvYie8cCxZY_n/view?usp=sharing)
 - [L2 Simple Loader](https://drive.google.com/file/d/1G0_w6qL4PqE8mrR40Ticq0e8j_tskrr6/view?usp=sharing) — Локальный сервер HF
